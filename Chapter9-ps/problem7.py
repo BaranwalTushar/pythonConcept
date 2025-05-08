@@ -1,4 +1,3 @@
-
 with open("log.txt")  as f:
  lines  =    f.readlines() 
 
